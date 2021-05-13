@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey there :wave:,
 
-<!--
-**sepehr0eslami/sepehr0eslami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sepehr Eslami, a 👨‍💻C++ / 🏎 Competitive Programming enthusiast.
 
-Here are some ideas to get you started:
+I code to make my life easy. Bugs exist to make my life hard. That's the Balance!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A little Extra info about me:
+
+```
+class Me
+{
+    string pronoun = "he" + "/" + "him";
+    string languages[] = {"C++", "C"};
+    int age = 15;
+
+    string fisrtCode = "Hello World!";
+
+    bool using_namespace_std = true;
+
+    string tools[] = {"CMake", "Make", "Git"};
+};
+```
