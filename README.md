@@ -1,3 +1,5 @@
+<img src="night_owl.jpg">
+
 # Hey there, <img src="wave.gif" width="30px">
 
 I'm Sepehr Eslami, a Self-taught 👨‍💻C++ programmer & a 🏎 Competitive Programming enthusiast.
