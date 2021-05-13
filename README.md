@@ -2,7 +2,7 @@
 
 # Hey there, <img src="wave.gif" width="30px">
 
-I'm Sepehr Eslami, a Self-taught 👨‍💻C++ programmer & a 🏎 Competitive Programming enthusiast.
+I'm Sepehr Eslami, a Self-taught :man_technologist: C++ programmer and a :racing_car: Competitive Programming enthusiast.
 
 I code to make my life easy. Bugs exist to make my life hard. Surprisingly that makes a perfect balance!
 
