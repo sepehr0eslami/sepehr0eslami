@@ -1,4 +1,4 @@
-### Hey there :wave:,
+# Hey there, <img src="wave.gif" width="30px">
 
 I'm Sepehr Eslami, a 👨‍💻C++ / 🏎 Competitive Programming enthusiast.
 
