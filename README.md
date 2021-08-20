@@ -25,9 +25,9 @@ class Me
 
 ## :wrench: Tech & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=red)
-![](https://img.shields.io/badge/Distro-Manjaro-informational?style=flat&logo=manjaro&logoColor=white&color=green)
+![](https://img.shields.io/badge/Distro-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VSCode+Nvim-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Clang%20Format-informational?style=flat&logo=prettier&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=orange)
